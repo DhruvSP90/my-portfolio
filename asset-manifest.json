@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b8c0635c.css",
+    "main.js": "/my-portfolio/static/js/main.d93bff16.js",
+    "static/media/my-image2.png": "/my-portfolio/static/media/my-image2.09971ee23a6b3984cb1a.png",
+    "static/media/me-new.png": "/my-portfolio/static/media/me-new.264628c69e9d9311a2b6.png",
+    "static/media/img3.png": "/my-portfolio/static/media/img3.3691e434f98555785446.png",
+    "static/media/img4.png": "/my-portfolio/static/media/img4.77ae2b5310f9dac23bc7.png",
+    "static/media/img6.png": "/my-portfolio/static/media/img6.5b59ceb4fe12d51c8ce0.png",
+    "static/media/img5.png": "/my-portfolio/static/media/img5.73e82c059f7b6634b887.png",
+    "static/media/img2.png": "/my-portfolio/static/media/img2.bf8f673b6094223c994c.png",
+    "static/media/Dhruv_Sanjaykumar_Patel-Resume.pdf": "/my-portfolio/static/media/Dhruv_Sanjaykumar_Patel-Resume.1098f1eb917f70348d23.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.b8c0635c.css.map": "/my-portfolio/static/css/main.b8c0635c.css.map",
+    "main.d93bff16.js.map": "/my-portfolio/static/js/main.d93bff16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c0635c.css",
+    "static/js/main.d93bff16.js"
+  ]
+}
